@@ -1,0 +1,16 @@
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Implementation.deps.json
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Implementation.dll
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Implementation.pdb
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Application.dll
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Domain.dll
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.EfDataAccess.dll
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Application.pdb
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.EfDataAccess.pdb
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\bin\Debug\netcoreapp3.1\ShoeStore.Domain.pdb
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.csprojAssemblyReference.cache
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.AssemblyInfoInputs.cache
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.AssemblyInfo.cs
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.csproj.CopyComplete
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.dll
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.pdb
+C:\Users\Apostol\source\repos\ShoeStore\ShoeStore.Implementation\obj\Debug\netcoreapp3.1\ShoeStore.Implementation.csproj.CoreCompileInputs.cache

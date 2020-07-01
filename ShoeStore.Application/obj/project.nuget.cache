@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOkO/SZ0+fw9LgZZVfa2I5izy1DFAQtTbJDIj6CEMcTyA/7ju8MetBtPYrvRGzpVQSgcl9oEE65iRiZX14WMDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apostol\\source\\repos\\ShoeStore\\ShoeStore.Application\\ShoeStore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apostol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
